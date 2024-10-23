@@ -1,0 +1,16 @@
+theory Patterns imports
+Pattern1_Def
+Pattern2_Def
+Pattern3_Def
+Pattern4_Def
+Pattern5_Def
+Pattern6_Def
+Pattern7_Def
+Pattern9_def
+Pattern10_Def
+Pattern11_Def
+Pattern12_Def
+Constrained_Historically
+begin
+
+end
