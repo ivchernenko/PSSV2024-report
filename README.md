@@ -7,6 +7,7 @@ Basic and derived requirement and extra invariant patterns and corresponding lem
 The approach is demonstrated by the vending machine control program.
 - poST-program [VendingMachine.post](https://github.com/ivchernenko/PSSV2024-report/blob/main/VendingMachine/VendingMachine.post)
 - Verification conditions [VendingMachine.thy](https://github.com/ivchernenko/PSSV2024-report/blob/main/VendingMachine/VendingMachine.thy)
+- Requirements in natural language [Requirements.txt](https://github.com/ivchernenko/PSSV2024-report/blob/main/VendingMachine/Requirements.txt)
 - Requirements in Isabelle/HOL [Requirements.thy](https://github.com/ivchernenko/PSSV2024-report/blob/main/VendingMachine/Requirements.thy)
 - Requirement-independent extra invariant [CommonExtraInv.thy](https://github.com/ivchernenko/PSSV2024-report/blob/main/VendingMachine/CommonExtraInv.thy)
 - Requirement-dependent extra invariant for requirement Ri is defined in the file ExtraInv_Ri.ty in the directory VendingMachine
